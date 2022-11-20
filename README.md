@@ -14,7 +14,7 @@ I have made some changes in original codes to make PHPMerger compatible for PHP 
 
 - Update
 
-I tested with PHP 7.1 on my local machine and it still works.
+I tested with PHP 7.1 and 8.0 on my local machine and it still works.
 
 ## Support of PDF 1.5 and PDF 1.6
 
